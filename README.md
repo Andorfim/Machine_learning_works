@@ -2,10 +2,10 @@
 
 code "classes"
 
-The first part
+The first part - 
 Here I use the K-means method and the DBSCAN method on a self-generated sample with 4 clusters.
 
-The second part
+The second part - 
 I use the same two methods on the Mall_Customers dataset. 
 Data - expenses and finished income
 

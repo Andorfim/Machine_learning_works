@@ -1,6 +1,6 @@
 # Machine_learning_works
 
-code "classes"
+code "classes and clusters"
 
 The first part - 
 Here I use the K-means method and the DBSCAN method on a self-generated sample with 4 clusters.

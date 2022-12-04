@@ -9,5 +9,4 @@ The second part
 I use the same two methods on the Mall_Customers dataset. 
 Data - expenses and finished income
 
-code "difference"
-In this code I use Naive Bayes Classifier for determinating songs by David Bowie and Paul Mccartney
+code "difference" - In this code I use Naive Bayes Classifier for determinating songs by David Bowie and Paul Mccartney
